@@ -128,3 +128,8 @@ a{
     font-size: 1rem;
     margin-bottom: 10px;
 }
+.inputs button a{
+    color: #1d1d1d;
+    font-weight: bold;
+    background: inherit;
+}
